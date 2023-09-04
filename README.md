@@ -29,6 +29,10 @@ You may study `testCaclulate1` as a sample. This test case should make a connect
 
 What benefit do we have from having integration tests in our project?
 ```
+
+The primary benefit of having integration tests in your project is that they validate how different components of your software work together as a whole, helping detect integration issues, ensuring real-world functionality, and providing confidence in the system's reliability and stability.
+
+Example:
 @Test
     public void testCaclulate3() {
 
